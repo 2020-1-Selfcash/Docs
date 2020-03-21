@@ -1,0 +1,8 @@
+site_name: Selfcash
+repo_name: '2020-1-Selfcash'
+repo_url: 'https://github.com/2020-1-Selfcash/Docs'
+
+nav:
+    - Home: index.md
+
+theme: readthedocs
