@@ -33,7 +33,7 @@ ___
 ## Pontos
 | Planejados | Débito | Total | 
 |:----------:|:------:|:-----:|
-| 0 | 0 | 0 |
+| 11 | 12 | 23 |
 
 
 ## Presença na sprint planning 1 (04/04/2020)
