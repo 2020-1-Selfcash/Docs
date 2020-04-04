@@ -11,7 +11,7 @@ Concluir a elicitação de requisitos.
 ## Issues
 
 |Issue|Responsável|Épico|Pontos|
-|:---:|:---------:|:---:|:----:|:----:|
+|:---:|:---------:|:---:|:----:|
 | Planos de risco | Ernando | Docs | 2 |
 | Custo e tempo | Bruno e Ernando | Docs | 3 |
 | Tabela de requisitos funcionais + rastreabilidade | todos (Julio e Lucas) | Elicitação | 3 | 
