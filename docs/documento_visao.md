@@ -1,13 +1,5 @@
 # Documento de Visão
 
-### Histórico de revisões
-|Data|Versão|Alteração|Autor|
-|----|------|---------|-----|
-| 21/03/2020 | 0.1 | Criação do documento de visão | Eugênio Sales | 
-| 04/04/2020 | 0.2 | Adição dos Recursos do Produto e Restrições | Lucas Silva | 
-| 04/03/2020 | 0.3 | Adição de introdução e posição | Eugênio Sales | 
-
-
 ## **1. Introdução**
 
 ### 1.1 Finalidade
@@ -56,83 +48,26 @@
 | **Diferente de** | instituições financeiras |
 | **Nosso produto** | Auxilia o usuário a gastar melhor |
 
-## **3. Descrição dos Envolvidos e dos Usuários**
-	
-### 3.1 Resumo dos Envolvidos
+## 3. Descrições da Parte Interessada e do Usuário
+Este tópico abrange informações acerca dos stakeholders detalhando os perfis que podem possuir algum tipo de envolvimento com a aplicação.
 
-| **Nome** | **Descrição** | **Responsabilidade** |
-| :------: | :-----------: | :------------------: |
-| Equipe de Desenvolvimento |  | Desenvolvimento, Testes, Documentação e Implementação do Software |
-| Equipe de Gestão |  | Gerir o desenvolvimento do produto identificando problemas e apontando caminhos e soluções |
-	 	
-	
+### 3.1 Resumo da Parte Interessada
+Empresas de pequeno e médio porte, organizações, instituições comerciais, pessoas físicas e jurídicas que buscam uma forma alternativa e intuitiva de controle financeiro e feedbacks orçamentários específicos em cada situação.
+
 ### 3.2 Resumo do Usuário
-| **Nome** | **Descrição** |
-| :------: | :-----------: |
-| Paciente |  |
-| Dermatologista  |  |
+Os usuários chave desta aplicação seriam pessoas que questionam seus gastos e saúde financeira, indivíduos que tem dificuldade quando se aproximam do final do mês e  que visam uma melhor forma de gerenciar seus lucros e gastos. Ademais, qualquer um que se disponha em obter tranquilidade, objetividade e estabilidade financeira.   
 
-### 3.3 Ambiente do Usuário
-	
-	O sistema será utilizado em smartphones com sistema operacional android ou ios.
+### 3.3 Ambiente do Usuário 
+A amplitute do projeto situa-se em um aplicativo denominado Selfcash que pode ser acessado através de dispositivos móveis em plataformas ainda não definidas. O intuito dos desenvolvedores é democratizar o acesso da aplicação buscando abranger o maior número de pessoas possíveis. 
 
-### 3.4 Perfis dos Envolvidos
-   
-#### 3.4.1 Equipe de Desenvolvimento
+## 4. Visão Geral do Produto
 
-|  |  |
-| --------------- | --------------- |
-| **Representantes** |     |
-| **Descrição** | Desenvolvedores. |
-| **Tipo** | |
-| **Responsabilidades** | Desenvolvimento, Testes, Documentação, Implementação do software e Gestão do Projeto. |
-| **Critérios de Sucesso** | Finalizar o desenvolvimento e realizar entrega do software em tempo estipulado.  |
-| **Envolvimento** | Alto  |
-
-#### 3.4.2 Equipe de Gestão de Projeto
-
-|  |  |
-| --------------- | --------------- |
-| **Representante** |  |
-| **Descrição** |  |
-| **Tipo** |  |
-| **Responsabilidades** |  |
-| **Critérios de Sucesso** |  |
-| **Envolvimento** | Alto |
-
-
-### 3.5 Perfis dos Usuários
-
-#### 3.5.1 PXXXX
-
-|  |  |
-| --------------- | --------------- |
-| **Representante** |  |
-| **Descrição** |  |
-| **Tipo** |  |
-| **Responsabilidades** |  |
-| **Critérios de Sucesso** |  |
-| **Envolvimento** |  |
-
-
-### 3.6 Alternativas e Concorrências  
-
-#### 3.6.1 XXXX
-
-
-## **4. Visão Geral do Produto**  
 ### 4.1 Perspectiva do Produto
+Trata-se de uma aplicação cujo objetivo é auxiliar o controle financeiro pessoal permitindo a rastreablidade de seus rendimentos, gastos e objetivos financeiros.<br>
+A ideia do aplicativo visa uma democratização do acesso a gestão financeira no Brasil, concentrando em um único sistema, soluções e simulações inovadoras no cenário econômico atual. 
 
-
-### 4.2 Resumo dos Recursos
-| **Benefício para o Cliente** | **Recursos de suporte** |
-|:---:|:---:|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-
-### 4.3 Custo e Precificação
+### 4.2 Resumo das Capacidades
+A aplicação permite a categorização de despesas e recomendações personalizadas de acordo com a necessidade do usuário e sua sincronização bancária. O sistema possibilitará a obtenção de informações e métricas concisas de maneira intuitiva e efeciente através de Dashboards. 
 
 ## **5. Recursos do Produto**
 
@@ -144,6 +79,7 @@
 
 ### 5.3. Separação de despesas por categoria
 <p style="text-align:justify">&emsp;&emsp;&emsp;&emsp;O usuário poderá tipificar as despesas por categoria e assim separá-las de acordo da forma como desejar.</p>
+
 ### 5.4. Fluxo de caixa mensal
 
 <p style="text-align:justify">&emsp;&emsp;&emsp;&emsp;O sistema disponibiliza extrato/informações referente ao fluxo de entrada e saída do usuário mensalmente.</p>
@@ -164,4 +100,16 @@
 <p style="text-align:justify">&emsp;&emsp;&emsp;&emsp;O usuário poderá registrar empréstimos que foi feito para outros usuários ou pessoas de fora do sistema. Caso seja usuário de fora do sistema, terá a possibilidade de enviar um convite para se cadastrar.</p>
 
 
-## **6. Restrições**
+## 6. Restrições
+
+
+
+***
+
+### Histórico de revisões
+|Data|Versão|Alteração|Autor|
+|----|------|---------|-----|
+| 21/03/2020 | 0.1 | Criação do documento de visão | Eugênio | 
+| 04/04/2020 | 0.2 | Adição dos Recursos do Produto e Restrições | Lucas Silva |
+| 04/04/2020 | 0.3 | Adicionando Visão Geral do Produto e Descrições | Bruno Duarte |
+| 04/04/2020 | 0.4 | Adição de Introdução e Posição | Eugênio |
