@@ -4,6 +4,15 @@ O RichPicture é uma técnica que serve para a obtenção do entendimento de alg
 ***
 
 
+<span id="RichPicturev2"></span>
+### [RichPicture Selfcash 0.2] 
+
+*Versão: 0.2* </br>
+*Autor:* Bruno Duarte
+
+![New Version](../images/rich_picture_selfcash2.jpg) 
+*Nota: Refatoração do rich picture com uma visão um pouco mais elaborada acerca das funcionalidades e abrangências do projeto*
+
 <span id="RichPicturev1"></span>
 ### [RichPicture Selfcash 0.1] 
 *Versão: 0.1* </br>
