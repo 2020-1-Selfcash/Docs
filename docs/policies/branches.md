@@ -31,16 +31,6 @@ O projeto irá adotar um fluxo git baseado no git-flow:
 
  * Bugfix(bug): Branch para corrigir bugs em produção;
 
-
-
-
-
-
-
-
-
-
-
 ## Versionamento do documento
 | Autor | Data | Versão | Modificação |
 |---|---|---|---|
