@@ -90,18 +90,15 @@ A aplicação permite a categorização de despesas e recomendações personaliz
 ### 5.6. Comparação com usuários com faixa de renda similar
 <p style="text-align:justify">&emsp;&emsp;&emsp;&emsp;O sistema disponibilizá de relatórios referente a média de gastos do usuário comparado a média de gastos de mesma faixa etária ou renda.</p>
 
-### 5.7. Auxílio com conversão de câmbio
-<p style="text-align:justify">&emsp;&emsp;&emsp;&emsp; </p>
-
-### 5.8. Simulações 
-<p style="text-align:justify">&emsp;&emsp;&emsp;&emsp; </p>
-
-### 5.9. Adição de registro de empréstimos 
+### 5.7. Adição de registro de empréstimos 
 <p style="text-align:justify">&emsp;&emsp;&emsp;&emsp;O usuário poderá registrar empréstimos que foi feito para outros usuários ou pessoas de fora do sistema. Caso seja usuário de fora do sistema, terá a possibilidade de enviar um convite para se cadastrar.</p>
 
 
 ## 6. Restrições
-
+- É necessário o celular estar conectado à internet para enviar as alterações e receber os dados salvos no banco de dados.
+- Compatível com dispositivos Android e iOS.
+- Design tem que ser intuitivo, acessível e compreensível para que novos usuários ou leigos não tenham problema ao utilizar o aplicativo.
+- Os dados enviados referentes à cartão de crédito serão criptografados para evitar vazamento.
 
 
 ***
@@ -110,6 +107,7 @@ A aplicação permite a categorização de despesas e recomendações personaliz
 |Data|Versão|Alteração|Autor|
 |----|------|---------|-----|
 | 21/03/2020 | 0.1 | Criação do documento de visão | Eugênio | 
-| 04/04/2020 | 0.2 | Adição dos Recursos do Produto e Restrições | Lucas Silva |
+| 04/04/2020 | 0.2 | Adição dos Recursos do Produto | Lucas Silva |
 | 04/04/2020 | 0.3 | Adicionando Visão Geral do Produto e Descrições | Bruno Duarte |
 | 04/04/2020 | 0.4 | Adição de Introdução e Posição | Eugênio |
+| 04/04/2020 | 0.5 | Adição de Restrições | Lucas Silva |
