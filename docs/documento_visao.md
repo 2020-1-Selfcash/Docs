@@ -1,10 +1,4 @@
-# Documento de visão
-
-### Histórico de revisões
-|Data|Versão|Alteração|Autor|
-|----|------|---------|-----|
-| 21/03/2020 | 0.1 | Criação do documento de visão | Eugênio | 
-| 04/04/2020 | 0.2 | Adição dos Recursos do Produto e Restrições | Lucas Silva | 
+# Documento de visão 
 
 ## 1. Introdução
 
@@ -22,7 +16,7 @@ Os usuários chave desta aplicação seriam pessoas que questionam seus gastos e
 ### 3.3 Ambiente do Usuário 
 A amplitute do projeto situa-se em um aplicativo denominado Selfcash que pode ser acessado através de dispositivos móveis em plataformas ainda não definidas. O intuito dos desenvolvedores é democratizar o acesso da aplicação buscando abranger o maior número de pessoas possíveis. 
 
-## 4. Visão geral do produto
+## 4. Visão Geral do Produto
 
 ### 4.1 Perspectiva do Produto
 Trata-se de uma aplicação cujo objetivo é auxiliar o controle financeiro pessoal permitindo a rastreablidade de seus rendimentos, gastos e objetivos financeiros.<br>
@@ -65,3 +59,13 @@ A aplicação permite a categorização de despesas e recomendações personaliz
 ## 6. Restrições
 
 
+
+***
+
+### Histórico de revisões
+|Data|Versão|Alteração|Autor|
+|----|------|---------|-----|
+| 21/03/2020 | 0.1 | Criação do documento de visão | Eugênio | 
+| 04/04/2020 | 0.2 | Adição dos Recursos do Produto e Restrições | Lucas Silva |
+|04/04/2020|0.3|Adicionando Visão Geral do Produto e Descrições(Tópicos: 3 e 4) |Bruno Duarte|
+***
