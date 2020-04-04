@@ -10,7 +10,7 @@ Exemplo: update project readme
 
 * Para trabalhos feitos em conjunto, usar o co-authored para incluir como contribuinte no corpo da mensagem de commit:
 ````git
-fix signin bug
+release version 2.0
 
 Co-authored-by: Eugênio Sales <eugenio.sales@outlook.com>
 ````

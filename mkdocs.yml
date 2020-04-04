@@ -4,6 +4,9 @@ repo_url: 'https://github.com/2020-1-Selfcash/Docs'
 
 nav:
     - Home: index.md
-    - Gitflow: policies/gitflow.md
+    - Políticas: 
+        - Branch: policies/branches.md
+        - Commit: policies/commits.md
+        - Pull Request: policies/pull-request.md
 
 theme: readthedocs
