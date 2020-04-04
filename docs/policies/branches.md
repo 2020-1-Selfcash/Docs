@@ -10,9 +10,9 @@ As <b>Branches</b> do projeto devem contemplar as seguintes especificações:
 
     * feat: Para adição de funcionalidades ou mudanças em alguma já existente; 
 
-    * bug: Para correção de bugs
+    * bug: Para correção de bugs;
 
-    * hotfix: Para correção de bugs em produção que não podem esperar a próxima release
+    * hotfix: Para correção de bugs em produção que não podem esperar a próxima release.
 
 * O nome da branch deve estar relacionado com a issue, procurando ser o mais objetivo possível, separando o grupo por  barras('/')
 
