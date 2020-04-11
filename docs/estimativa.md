@@ -7,6 +7,8 @@ de trabalho que serão necessários para terminar as atividades específicas com
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Os períodos de duração de atividades são estimados em horas ou dias para cada
 atividade do pacote de trabalho.
 
+* Tempo estimado do projeto: 24 semanas de acordo com o calendário letivo e considerando a suspensão do semestre;
+
 ## Cronograma de Atividades
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Desenvolver o cronograma é o processo de determinação das datas de início e fim planejadas para cada atividade, análise de sequências das atividades, suas durações, recursos necessários e restrições visando a criar o cronograma do projeto.
@@ -14,6 +16,8 @@ atividade do pacote de trabalho.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O desenvolvimento do cronograma pode requerer a análise e revisão das estimativas de duração e de estimativas de recursos para criar o modelo de cronograma aprovado do projeto que pode servir como linha de base para acompanhar o seu progresso.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O projeto está adotando uma metodologia ágil, e portanto usando sprints semanais para entrega do trabalho, com sprints de uma e duas semanas, dependendo do trabalho necessário naquela semana. Sendo que a data de entrega final do projeto já está descrito na ementa da matéria de Desenho e Arquitetura de Software.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cada milestone do projeto é a finalização de cada sprint
 
 ## Controle do Cronograma
 
