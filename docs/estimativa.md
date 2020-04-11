@@ -2,18 +2,18 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Estimar as durações das atividades é o processo de estimativa do número de períodos
 de trabalho que serão necessários para terminar as atividades específicas com os recursos estimados. A estimativa das durações das atividades utiliza informações sobre as atividades do escopo do projeto, tipos de recursos necessários, quantidades estimadas de recursos e calendários de recursos.
 
-Esse processo requer que a quantidade do esforço de trabalho necessário e que a quantidade de recursos a ser aplicada para completar a atividade sejam estimados; esses são usados para aproximar o número de períodos de trabalho (duração da atividade) necessários para o término da atividade. Todos os dados e premissas que suportam a estimativa são documentados para cada estimativa de duração de atividade.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Esse processo requer que a quantidade do esforço de trabalho necessário e que a quantidade de recursos a ser aplicada para completar a atividade sejam estimados; esses são usados para aproximar o número de períodos de trabalho (duração da atividade) necessários para o término da atividade. Todos os dados e premissas que suportam a estimativa são documentados para cada estimativa de duração de atividade.
 
-Os períodos de duração de atividades são estimados em horas ou dias para cada
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Os períodos de duração de atividades são estimados em horas ou dias para cada
 atividade do pacote de trabalho.
 
 ## Cronograma de Atividades
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Desenvolver o cronograma é o processo de determinação das datas de início e fim planejadas para cada atividade, análise de sequências das atividades, suas durações, recursos necessários e restrições visando a criar o cronograma do projeto.
 
-O desenvolvimento do cronograma pode requerer a análise e revisão das estimativas de duração e de estimativas de recursos para criar o modelo de cronograma aprovado do projeto que pode servir como linha de base para acompanhar o seu progresso.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O desenvolvimento do cronograma pode requerer a análise e revisão das estimativas de duração e de estimativas de recursos para criar o modelo de cronograma aprovado do projeto que pode servir como linha de base para acompanhar o seu progresso.
 
-O projeto está adotando uma metodologia ágil, e portanto usando sprints semanais para entrega do trabalho, com sprints de uma e duas semanas, dependendo do trabalho necessário naquela semana. Sendo que a data de entrega final do projeto já está descrito na ementa da matéria de Desenho e Arquitetura de Software.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O projeto está adotando uma metodologia ágil, e portanto usando sprints semanais para entrega do trabalho, com sprints de uma e duas semanas, dependendo do trabalho necessário naquela semana. Sendo que a data de entrega final do projeto já está descrito na ementa da matéria de Desenho e Arquitetura de Software.
 
 ## Controle do Cronograma
 
