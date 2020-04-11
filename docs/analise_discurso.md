@@ -1,8 +1,6 @@
-# Documento de Visão
+# Análise de Discurso
 
-### Introdução
-
-A técnica de questionário teve como enfoque coletar dados, via formulário online, dos usuários de forma que auxiliasse traçar estrategicamente objetivos para levantar requisitos funcionais e não funcionais.
+Será abordado a conversa entre duas pessoas relacionado ao aplicativo de finanças, onde as duas pessoas discutiram o uso de algum outro tipo de aplicativo e suas facilidades e não facilidades.
 
 ### Metodologia
 
