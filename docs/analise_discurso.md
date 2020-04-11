@@ -33,6 +33,9 @@ O uso da técnica de análise de discurso foi feita a partir de duas pessoas con
 **Pessoa A**: Hmmm, sim. Seria legal algum tipo de lista de desejos sabe, onde ele me ajudaria a fazer algum tipo de economias para futuramente fazer esse tipo de compra. Hahaha
 
 ### Requisitos Elicitados
+* Aplicativo com uma interface flexível e "bonita".
+* Gamificação é uma ótima ideia para sair de um aplicativo monótono.
+* Lista de desejos é uma feature a ser pensada também.
 
 ### Referências
 >  SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 07. 1º/2019. 50 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
@@ -43,3 +46,4 @@ O uso da técnica de análise de discurso foi feita a partir de duas pessoas con
 |Data|Versão|Alteração|Autor|
 |----|------|---------|-----|
 | 11/04/2020 | 0.1 | Criação do documento análise de discurso | Julio Litwin | 
+| 11/04/2020 | 0.2 | Atualizado o requisitos elicitados | Julio Litwin | 
