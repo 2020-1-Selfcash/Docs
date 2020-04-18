@@ -31,6 +31,8 @@ O uso da técnica de análise de discurso foi feita a partir de duas pessoas con
 | RF18 | O usuário deve poder deletar sua conta |-|-|
 | RF19 | O usuário deve poder excluir seu cartão de crédito do aplicativo |-|-|
 | RF20 | O usuário deve ter acesso às respostas das principais dúvidas sobre o aplicativo |-|-|
+| RF21 | O aplicativo deve mostrar indicadores financeiros |-|-|
+| RF22 | O aplicativo deve manter um backup dos meus dados |-|-|
 
 ### Requisitos Não Funcionais
 |Índice|Descrição|Prioridade|Rastreabilidade|
@@ -56,5 +58,6 @@ O uso da técnica de análise de discurso foi feita a partir de duas pessoas con
 |----|------|---------|-----|
 | 11/04/2020 | 0.1 | Criação do documento de Requisitos Elicitados | Julio Litwin |
 | 17/04/2020 | 0.2 | Adição dos requisitos RF03 à RF10 e RNF03 à RNF04 | Eugênio Sales |
-|18/04/2020||Adicionados [RF11, RF16] e [RNF05, RNF08]|Bruno Duarte|
+|18/04/2020| 0.3 |Adicionados [RF11, RF16] e [RNF05, RNF08]|Bruno Duarte|
 | 18/04/2020 | 0.4 | Adição dos requisitos RF17 ao RF20 | Weiller Fernandes |
+| 18/04/2020 | 0.5 | Adição dos requisitos RF21 ao RF22 e RNF09 ao RNF10 | Ernando Braga |
