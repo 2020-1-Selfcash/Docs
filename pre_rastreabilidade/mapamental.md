@@ -11,7 +11,7 @@ Mapas mentais tendem a simplificar um pensamento, uma ideia e encontrar um relac
 *Autor:* Davi
 
 
-![Start Version](../images/mapa_mental_selfcash1.pdf) 
+![Start Version](../images/mapa_mental_selfcash1.jpg) 
 
 Neste mapa mental foram adicionadas as relações iniciais pensadas com base em outros aplicativos. O traço na seta à direita foi pensado e adicionado pensando mais em uma área não funcional da aplicação, porém de grande importância para seu funcionamento.
 
