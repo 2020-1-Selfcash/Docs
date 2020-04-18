@@ -20,17 +20,17 @@ O uso da técnica de análise de discurso foi feita a partir de duas pessoas con
 | RF07 | O usuário pode traçar metas de gastos ou economias personalizadas | - | - |
 | RF08 | O usuário deve ter acesso a relatórios de desempenho | - | - |
 | RF09 | O usuário pode comparar suas metas com outros usuários com faixa de renda similar | - | - |
-| RF10 | O usuário pode comparar suas metas com outros usuários com faixa de renda similar | - | - |
-|RF11| Sincronização de contas bancárias do usuário com o aplicativo|-|-|
-|RF12|Dashboard geral de gastos/despesas e metas|-|-|
-|RF13|Gráficos interativos a partir dos dados orçamentários fornecidos|-|-|
-|RF14|Rastrear dispesas a partir do CPF do usuário|-|-|
-|RF15|Auxílio com conversão de câmbio|-|-|
-|RF16|Confidencialidade e privacidade dos dasdos |-|-|
-|RF17| O usuário deve poder fazer login no app |-|-|
-|RF18| O usuário deve poder deletar sua conta |-|-|
-|RF19| O usuário deve poder excluir seu cartão de crédito do aplicativo |-|-|
-|RF20| O usuário deve ter acesso às respostas das principais dúvidas sobre o aplicativo |-|-|
+| RF10 | O usuário deve poder ter um feedback de como está indo sua projeção de gastos | - | - |
+| RF11 | Sincronização de contas bancárias do usuário com o aplicativo|-|-|
+| RF12 | Dashboard geral de gastos/despesas e metas|-|-|
+| RF13 | Gráficos interativos a partir dos dados orçamentários fornecidos|-|-|
+| RF14 | Rastrear dispesas a partir do CPF do usuário|-|-|
+| RF15 | Auxílio com conversão de câmbio|-|-|
+| RF16 | Confidencialidade e privacidade dos dasdos |-|-|
+| RF17 | O usuário deve poder fazer login no app |-|-|
+| RF18 | O usuário deve poder deletar sua conta |-|-|
+| RF19 | O usuário deve poder excluir seu cartão de crédito do aplicativo |-|-|
+| RF20 | O usuário deve ter acesso às respostas das principais dúvidas sobre o aplicativo |-|-|
 
 ### Requisitos Não Funcionais
 |Índice|Descrição|Prioridade|Rastreabilidade|
@@ -43,6 +43,8 @@ O uso da técnica de análise de discurso foi feita a partir de duas pessoas con
 |RNF06|Acompanhar ações da bolsa em tempo real|-|-|
 |RNF07|Notificar pagamento a partir da categorização de despesas|-|-|
 |RNF08|Sincronizar e Categorizar gastos a partir do Cartão de Crédito do Usuário|-|-|
+| RNF09 | O aplicativo deve permitir uso por dados móveis e ser de baixo custo para o pacote de dados | - | - |
+| RNF10 | O aplicativo deve ter uma boa responsividade em todas as plataformas igualmente | - | - |
 
 ### Referências
 >  SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 07. 1º/2019. 50 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
