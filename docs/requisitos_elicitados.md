@@ -33,12 +33,14 @@ O uso da técnica de análise de discurso foi feita a partir de duas pessoas con
 | RF20 | O usuário deve ter acesso às respostas das principais dúvidas sobre o aplicativo |-|-|
 | RF21 | O aplicativo deve mostrar indicadores financeiros |-|-|
 | RF22 | O aplicativo deve manter um backup dos meus dados |-|-|
+| RF23 | O aplicativo deve mostrar dicas sobre como economizar |-|-|
+| RF24 | O aplicativo deve mostrar em quais categorias estão tendo gastos excessivos |-|-|
 
 ### Requisitos Não Funcionais
 |Índice|Descrição|Prioridade|Rastreabilidade|
 |----|------|---------|-----|
 | RNF01 | O aplicativo deve ser interativo. | - | - |
-| RNF02 | O aplicativo funcionário 24/7.. | - | - |
+| RNF02 | O aplicativo deve funcionar 24/7. | - | - |
 | RNF03 | O aplicativo deve ser multiplataforma | - | - |
 | RNF04 | O aplicativo deve guardar dados bancários criptografado | - | - |
 |RNF05|Sugestão de Investimentos na Bolsa de Valores|-|-|
@@ -47,6 +49,12 @@ O uso da técnica de análise de discurso foi feita a partir de duas pessoas con
 |RNF08|Sincronizar e Categorizar gastos a partir do Cartão de Crédito do Usuário|-|-|
 | RNF09 | O aplicativo deve permitir uso por dados móveis e ser de baixo custo para o pacote de dados | - | - |
 | RNF10 | O aplicativo deve ter uma boa responsividade em todas as plataformas igualmente | - | - |
+|RNF11|O aplicativo deve permitir o login do usuário utilizando o Facebook ou Google |-|-|
+|RNF12|O aplicativo deve mostrar detalhes sobre os gastos cadastrados |-|-|
+|RNF13|O aplicativo deve mostrar os gastos por períodos |-|-|
+|RNF14|O aplicativo deve filtrar os gastos por categoria |-|-|
+|RNF15|O usuário pode colocar um identificador no gasto cadastrado |-|-|
+|RNF16|O aplicativo deve diferenciar entre gastos fixos e variáveis |-|-|
 
 ### Referências
 >  SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 07. 1º/2019. 50 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
@@ -61,3 +69,4 @@ O uso da técnica de análise de discurso foi feita a partir de duas pessoas con
 |18/04/2020| 0.3 |Adicionados [RF11, RF16] e [RNF05, RNF08]|Bruno Duarte|
 | 18/04/2020 | 0.4 | Adição dos requisitos RF17 ao RF20 | Weiller Fernandes |
 | 18/04/2020 | 0.5 | Adição dos requisitos RF21 ao RF22 e RNF09 ao RNF10 | Ernando Braga |
+| 18/04/2020 | 0.6 | Adição dos requisitos RF23 à RF24 e RNF11 à RNF16 | Lucas Gomes |
