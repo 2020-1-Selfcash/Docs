@@ -4,6 +4,7 @@
 |   Data   |  Versão  |        Descrição       |          Autor(es)          |
 |:--------:|:--------:|:----------------------:|:---------------------------:|
 |10/04/2020|   0.1    | Criação do documento  |  Lucas Silva  |
+|18/04/2020|   0.2    | Corrigiu algumas palavras que não estavam de acordo com o escopo  |  Lucas Silva  |
 
 ## 1. Introdução
 
@@ -30,23 +31,23 @@ A Introspecção é uma técnica de elicitação de requisitos onde parte do pre
 ### 2.4 Após realizar o login:
 
 * Irá aparecer a tela principal do aplicativo.
-* Terá informações sobre as despesas e receitas daquele mês.
+* Terá informações sobre as despesas daquele mês.
 * Na tela terá informações quanto a meta de gastos naquele mês corrente.
 * Terá um espaço com dicas que serão atualizadas periodicamente.
-* Terá um botão para adicionar receitas/gastos.
+* Terá um botão para adicionar gastos.
 * Terá um botão para ver detalhadamente as transações tanto do mês corrente ou anteriores.
 * Terá um botão para mostrar relatórios conforme planejamentos do usuário.
 
-### 2.5 Ao clicar no botão de adicionar receitas/gastos:
+### 2.5 Ao clicar no botão de adicionar gastos:
 
-* Terá um botão para alterar entre receitas e gastos.
-* Terá um formulário com informações como valor, data, categoria em que se encaixa e uma breve descrição para identificar aquela receita/gasto.
+* Terá um botão para alterar entre gastos.
+* Terá um formulário com informações como valor, data, categoria em que se encaixa e uma breve descrição para identificar aquela gasto.
 * Se for selecionado gastos, terá uma opção para selecionar se é gasto fixo ou variável.
 * Terá dois botões, um para submeter o formulário e outro para cancelar.
 
 ### 2.6 Ao acessar a tela de transações
 
-* Terá um filtro para alternar entre receitas e gastos.
+* Terá um filtro para alternar entre gastos.
 * Quando gastos for selecionado, aparecerá um filtro para alternar entre gastos fixos e variáveis.
 * As transações podem ser separadas por categoria.
 * Terá dicas sobre categorias gastos excessivos.
