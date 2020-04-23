@@ -15,7 +15,7 @@ Montar o backlog.
 | AI | Eugenio e Bruno | UI/UX | 5 |
 | Prototipo de baixa fidelidade | Bruno | UI/UX | 5 |
 | Definição de alternativas de arquitetura e tecnologias | Todos | Arquitetura | 2 |
-| Planos de risco | Davi, Weiler e Fernando | Docs | Descontinuada | 2 |
+| Planos de risco | Davi, Weiler e Fernando | Docs | 2 |
 | Backlog do produto | Lucas e Julio | Modelagem | 3 |
 | Roadmap do Produto | Ernando | Modelagem | 3 |
 
