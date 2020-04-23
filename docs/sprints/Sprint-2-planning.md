@@ -11,7 +11,7 @@ Montar o backlog.
 ## Issues
 
 |Issue|Responsável|Épico|Pontos|
-|:---:|:---------:|:---:|:----:|:----:|
+|:---:|:---------:|:---:|:----:|
 | AI | Eugenio e Bruno | UI/UX | 5 |
 | Prototipo de baixa fidelidade | Bruno | UI/UX | 5 |
 | Definição de alternativas de arquitetura e tecnologias | Todos | Arquitetura | 2 |
