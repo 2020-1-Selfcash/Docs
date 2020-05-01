@@ -1,5 +1,5 @@
 ## Protótipo de Baixa Fidelidade
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O protótipo de baixa fidelidade busca mostrar mediante sketches uma ideia superficial do aplicativo através de esboços de tela. Busca também demonstrar a idealização da interface e a disposição dos elementos e funcionalidades do projeto.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O protótipo de baixa fidelidade busca mostrar mediante sketches uma ideia superficial do aplicativo através de esboços de tela. Busca também demonstrar a idealização da interface e a disposição dos elementos e funcionalidades do projeto.<br>É uma maneira rápida e fácil de traduzir conceitos de design de alto nível em artefatos tangíveis e testáveis. POssui apenas alguns dos atributos visuais do projeto e são apresentados para verificar e testar a funcionalidade, em vez da aparência do produto.
 
 
 ## Dashboard
