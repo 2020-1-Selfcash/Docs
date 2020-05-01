@@ -1,9 +1,10 @@
 ## Protótipo de Baixa Fidelidade
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O protótipo de baixa fidelidade busca mostrar mediante sketches uma ideia superficial do aplicativo através de esboços de tela. Busca também demonstrar a idealização da interface e a disposição dos elementos e funcionalidades do projeto.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O protótipo de baixa fidelidade busca mostrar mediante sketches uma ideia superficial do aplicativo através de esboços de tela. Busca também demonstrar a idealização da interface e a disposição dos elementos e funcionalidades do projeto.<br>
+
 
 ## Dashboard
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Primeiro contato do usuário com o aplicativo<br>
-![Home](../images/prototipo_papel/home.jpg =815x385)
+![Home](../images/prototipo_papel/home.jpg)
 
 ## Menu
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tela que dispõe as funcionalidades do aplicativo em grade<br>
