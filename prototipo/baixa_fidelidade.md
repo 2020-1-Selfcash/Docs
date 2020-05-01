@@ -3,7 +3,7 @@
 
 ## Dashboard
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Primeiro contato do usuário com o aplicativo<br>
-![Home](../images/prototipo_papel/home.jpg=815x385)
+![Home](../images/prototipo_papel/home.jpg =815x385)
 
 ## Menu
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tela que dispõe as funcionalidades do aplicativo em grade<br>
