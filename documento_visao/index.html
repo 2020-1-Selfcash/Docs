@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  
+  
+  <link rel="shortcut icon" href="../img/favicon.ico">
+  <title>Documento de Visão - Selfcash</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
+
+  <link rel="stylesheet" href="../css/theme.css" />
+  <link rel="stylesheet" href="../css/theme_extra.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" />
+  
+  <script>
+    // Current page data
+    var mkdocs_page_name = "Documento de Vis\u00e3o";
+    var mkdocs_page_input_path = "documento_visao.md";
+    var mkdocs_page_url = null;
+  </script>
+  
+  <script src="../js/jquery-2.1.1.min.js" defer></script>
+  <script src="../js/modernizr-2.8.3.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script> 
+  
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+        <a href=".." class="icon icon-home"> Selfcash</a>
+        <div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="..">Home</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Políticas</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../policies/branches/">Branch</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../policies/commits/">Commit</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../policies/pull-request/">Pull Request</a>
+                    </li>
+                </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href="..">Selfcash</a>
+      </nav>
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="..">Docs</a> &raquo;</li>
+    
+      
+    
+    <li>Documento de Visão</li>
+    <li class="wy-breadcrumbs-aside">
+      
+        <a href="https://github.com/2020-1-Selfcash/Docs/edit/master/docs/documento_visao.md"> Edit on 2020-1-Selfcash</a>
+      
+    </li>
+  </ul>
+  
+  <hr/>
+</div>
+          <div role="main">
+            <div class="section">
+              
+                <h1 id="documento-de-visao">Documento de Visão</h1>
+<h2 id="1-introducao"><strong>1. Introdução</strong></h2>
+<h3 id="11-finalidade">1.1 Finalidade</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Este documento tem por finalidade contextualizar o aplicativo Selfcash e os problemas que a aplicação se propõe a resolver, bem como apresentar os stakeholders e a visão de produto.</p>
+<h3 id="12-escopo">1.2 Escopo</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O Selfcash é um aplicativo para ajudar no controle financeiro pessoal, com funções para monitoramento de gastos excessivos e estipulação de metas de economia. É possível, ainda, categorizar despesas e criar relatórios de desempenho baseados em indicadores que o usuário considera importante.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A aplicação tem como propósito auxiliar as pessoas com a gestão dos próprios recursos de maneira consciente através da educação financeira.</p>
+<h3 id="13-definicoes-acronimos-e-abreviacoes">1.3 Definições, Acrônimos e Abreviações</h3>
+<ul>
+<li>Extrato - Representa o fluxo de caixa mensal do usuário, ou seja, a relação entre ativos e passivos correntes em determinado período</li>
+<li>Câmbio - A taxa de câmbio é uma relação entre moedas de dois países que resulta no preço de uma delas medido em relação à outra</li>
+</ul>
+<h3 id="14-referencias">1.4 Referências</h3>
+<blockquote>
+<p>Documento de Visão: A estrutura de tópicos do documento de visão. IBM. Disponível em: <a href='https://goo.gl/BNAJtT'><a href="https://goo.gl/BNAJtT">https://goo.gl/BNAJtT</a></a>. Acesso em: 27 de março de 2019;</p>
+</blockquote>
+<h3 id="15-visao-geral">1.5 Visão Geral</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Este documento visa detalhar os processos de desenvolvimento, planejamento e a construção do Selfcash, a gestão em um todo. Assim como sua visão de negócio, as partes a que se destina o uso do software, contendo as limitações, funcionalidades, interfaces e requisitos.</p>
+<h2 id="2-posicao"><strong>2. Posição</strong></h2>
+<h3 id="21-oportunidade-de-negocio">2.1 Oportunidade de Negócio</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tendo em vista a dificuldade de gestão de recursos pessoais de maioria da população brasileira, onde é muito comum endividamentos constantes devido cheques especiais, cartão crédito e parcelamentos longos. O Selfcash se propõe a ajudar as pessoas a realizar seus gastos de forma consciente e sem dívidas, incentivando o consumo equilibrado e transparente.</p>
+<h3 id="22-descricao-do-problema">2.2 Descrição do Problema</h3>
+<table>
+<thead>
+<tr>
+<th align="center"></th>
+<th align="center"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><strong>O problema de</strong></td>
+<td align="center">gestão de recursos financeiros</td>
+</tr>
+<tr>
+<td align="center"><strong>Afeta</strong></td>
+<td align="center">grande parte da população brasileira</td>
+</tr>
+<tr>
+<td align="center"><strong>Cujo impacto é</strong></td>
+<td align="center">Endividamentos por cheque especial, cartão de crédito e parcelamentos longos</td>
+</tr>
+<tr>
+<td align="center"><strong>Uma boa solução seria</strong></td>
+<td align="center">Promover um controle dos recursos de forma consciente e sem dívidas por meio de educação</td>
+</tr>
+</tbody>
+</table>
+<h3 id="23-descricao-de-posicao-do-produto">2.3 Descrição de Posição do Produto</h3>
+<table>
+<thead>
+<tr>
+<th align="center"></th>
+<th align="center"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><strong>Para</strong></td>
+<td align="center">Pessoas que querem se livrar de dívidas e ter um controle consciente dos gastos</td>
+</tr>
+<tr>
+<td align="center"><strong>Que</strong></td>
+<td align="center">são consumidoras</td>
+</tr>
+<tr>
+<td align="center"><strong>O Selfcash</strong></td>
+<td align="center">é um aplicativo</td>
+</tr>
+<tr>
+<td align="center"><strong>Que</strong></td>
+<td align="center">auxilia com o controle de gastos, economia e simulações</td>
+</tr>
+<tr>
+<td align="center"><strong>Diferente de</strong></td>
+<td align="center">instituições financeiras</td>
+</tr>
+<tr>
+<td align="center"><strong>Nosso produto</strong></td>
+<td align="center">Auxilia o usuário a gastar melhor</td>
+</tr>
+</tbody>
+</table>
+<h2 id="3-descricoes-da-parte-interessada-e-do-usuario">3. Descrições da Parte Interessada e do Usuário</h2>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Este tópico abrange informações acerca dos stakeholders detalhando os perfis que podem possuir algum tipo de envolvimento com a aplicação.</p>
+<h3 id="31-resumo-da-parte-interessada">3.1 Resumo da Parte Interessada</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Empresas de pequeno e médio porte, organizações, instituições comerciais, pessoas físicas e jurídicas que buscam uma forma alternativa e intuitiva de controle financeiro e feedbacks orçamentários específicos em cada situação.</p>
+<h3 id="32-resumo-do-usuario">3.2 Resumo do Usuário</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Os usuários chave desta aplicação seriam pessoas que questionam seus gastos e saúde financeira, indivíduos que tem dificuldade quando se aproximam do final do mês e  que visam uma melhor forma de gerenciar seus lucros e gastos. Ademais, qualquer um que se disponha em obter tranquilidade, objetividade e estabilidade financeira.   </p>
+<h3 id="33-ambiente-do-usuario">3.3 Ambiente do Usuário</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A amplitute do projeto situa-se em um aplicativo denominado Selfcash que pode ser acessado através de dispositivos móveis em plataformas ainda não definidas. O intuito dos desenvolvedores é democratizar o acesso da aplicação buscando abranger o maior número de pessoas possíveis. </p>
+<h2 id="4-visao-geral-do-produto">4. Visão Geral do Produto</h2>
+<h3 id="41-perspectiva-do-produto">4.1 Perspectiva do Produto</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trata-se de uma aplicação cujo objetivo é auxiliar o controle financeiro pessoal permitindo a rastreablidade de seus rendimentos, gastos e objetivos financeiros.<br>
+A ideia do aplicativo visa uma democratização do acesso a gestão financeira no Brasil, concentrando em um único sistema, soluções e simulações inovadoras no cenário econômico atual. </p>
+<h3 id="42-resumo-das-capacidades">4.2 Resumo das Capacidades</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A aplicação permite a categorização de despesas e recomendações personalizadas de acordo com a necessidade do usuário e sua sincronização bancária. O sistema possibilitará a obtenção de informações e métricas concisas de maneira intuitiva e efeciente através de Dashboards. </p>
+<h2 id="5-recursos-do-produto"><strong>5. Recursos do Produto</strong></h2>
+<h3 id="51-cadastro-e-login">5.1. Cadastro e Login</h3>
+<p><p style="text-align:justify">&emsp;&emsp;&emsp;&emsp;O usuário poderá se cadastrar para posteriormente acessar mediante o cadastro feito.</p></p>
+<h3 id="52-cadastro-de-gastos">5.2. Cadastro de gastos</h3>
+<p><p style="text-align:justify">&emsp;&emsp;&emsp;&emsp;O usuário poderá inserir os seus gastos de forma manual ou registrar o cartão de crédito para com o intúito do sistema ter acesso aos gastos de forma ágil e registrar na base de dados.</p></p>
+<h3 id="53-separacao-de-despesas-por-categoria">5.3. Separação de despesas por categoria</h3>
+<p><p style="text-align:justify">&emsp;&emsp;&emsp;&emsp;O usuário poderá tipificar as despesas por categoria e assim separá-las de acordo da forma como desejar.</p></p>
+<h3 id="54-fluxo-de-caixa-mensal">5.4. Fluxo de caixa mensal</h3>
+<p style="text-align:justify">&emsp;&emsp;&emsp;&emsp;O sistema disponibiliza extrato/informações referente ao fluxo de entrada e saída do usuário mensalmente.</p>
+
+<h3 id="55-relatorio-e-dicas-de-gastos-baseado-em-metas">5.5. Relatório e dicas de gastos baseado em metas</h3>
+<p><p style="text-align:justify">&emsp;&emsp;&emsp;&emsp;O usuário poderá inserir suas despesas podendo dividí-las entre fixas e variáveis. Poderá tambem inserir suas metas de gastos mensal, assim o sistema poderá traçar relatórios e dicas para o usuário se organizar financeiramente e montar uma reserva de emergência.</p></p>
+<h3 id="56-comparacao-com-usuarios-com-faixa-de-renda-similar">5.6. Comparação com usuários com faixa de renda similar</h3>
+<p><p style="text-align:justify">&emsp;&emsp;&emsp;&emsp;O sistema disponibilizá de relatórios referente a média de gastos do usuário comparado a média de gastos de mesma faixa etária ou renda.</p></p>
+<h3 id="57-adicao-de-registro-de-emprestimos">5.7. Adição de registro de empréstimos</h3>
+<p><p style="text-align:justify">&emsp;&emsp;&emsp;&emsp;O usuário poderá registrar empréstimos que foi feito para outros usuários ou pessoas de fora do sistema. Caso seja usuário de fora do sistema, terá a possibilidade de enviar um convite para se cadastrar.</p></p>
+<h2 id="6-restricoes">6. Restrições</h2>
+<ul>
+<li>É necessário o celular estar conectado à internet para enviar as alterações e receber os dados salvos no banco de dados.</li>
+<li>Compatível com dispositivos Android e iOS.</li>
+<li>Design tem que ser intuitivo, acessível e compreensível para que novos usuários ou leigos não tenham problema ao utilizar o aplicativo.</li>
+<li>Os dados enviados referentes à cartão de crédito serão criptografados para evitar vazamento.</li>
+</ul>
+<hr />
+<h3 id="historico-de-revisoes">Histórico de revisões</h3>
+<table>
+<thead>
+<tr>
+<th>Data</th>
+<th>Versão</th>
+<th>Alteração</th>
+<th>Autor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>21/03/2020</td>
+<td>0.1</td>
+<td>Criação do documento de visão</td>
+<td>Eugênio</td>
+</tr>
+<tr>
+<td>04/04/2020</td>
+<td>0.2</td>
+<td>Adição dos Recursos do Produto</td>
+<td>Lucas Silva</td>
+</tr>
+<tr>
+<td>04/04/2020</td>
+<td>0.3</td>
+<td>Adicionando Visão Geral do Produto e Descrições</td>
+<td>Bruno Duarte</td>
+</tr>
+<tr>
+<td>04/04/2020</td>
+<td>0.4</td>
+<td>Adição de Introdução e Posição</td>
+<td>Eugênio</td>
+</tr>
+<tr>
+<td>04/04/2020</td>
+<td>0.5</td>
+<td>Adição de Restrições</td>
+<td>Lucas Silva</td>
+</tr>
+</tbody>
+</table>
+              
+            </div>
+          </div>
+          <footer>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+    
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+      
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="versions">
+    <span class="rst-current-version" data-toggle="rst-current-version">
+      
+      
+      
+    </span>
+</div>
+    <script>var base_url = '..';</script>
+    <script src="../js/theme.js" defer></script>
+      <script src="../search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        };
+    </script>
+
+</body>
+</html>
