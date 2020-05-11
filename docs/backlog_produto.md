@@ -10,7 +10,7 @@ Para o levantamento dos épicos e features, foram usados documentos anteriores, 
 
 ------------
 
-![Start Version Backlog](../images/backlog.jpg) 
+![Start Version Backlog](../images/backlog.png) 
 
 
 
